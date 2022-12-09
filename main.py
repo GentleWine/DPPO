@@ -30,7 +30,7 @@ class Params():
         self.update_treshold = self.num_processes - 1
         self.max_episode_length = 10000
         self.seed = 1
-        self.env_name = 'InvertedPendulum-v1'
+        self.env_name = 'InvertedPendulum-v4'
         #self.env_name = 'Reacher-v1'
         #self.env_name = 'Pendulum-v0'
         #self.env_name = 'Hopper-v1'
